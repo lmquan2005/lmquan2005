@@ -9,7 +9,7 @@
 * 🎯 Aspiring **Data Engineer**
 * 📊 Love working with data, databases, and building data pipelines
 * 🔍 Interested in ** Data Modeling, and Big Data systems**
-* 🌱 Currently learning: **Python, SQL, Apache Spark, Data Engineering concepts**
+* 🌱 Currently learning: **Python, SQL, Data Engineering concepts**
 
 ---
 
